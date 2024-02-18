@@ -1,0 +1,360 @@
+#nav{
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.navimg{
+    width: 40px;
+}
+.scndpartall{
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 100px;
+    height: 600px;
+    background-image: url(banner.png);
+  
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-right:  100px ;
+    text-align: center;
+
+}
+.heading{
+    padding-top: 80px;
+    color: aliceblue;
+    font-size: 70px;
+}
+.textgreen{
+    font-size: 65px;
+    color: rgb(78, 211, 78);
+}
+.pragraph{
+    color: aliceblue;
+    margin-bottom: 40px;
+}
+.btn2{
+    padding: 10px 20px;
+    background-color: rgb(58, 219, 58);
+    color: black;
+    font-weight: 700;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+
+/* thrdpart*/
+
+.thrdparttitle{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.cuponpar1all{
+    background-color: rgb(236, 184, 38);
+    display: flex;
+    width: 500px;
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.cupontex1part{
+    margin-left: 25px;
+}
+.cuponimg{
+    margin-left: 70px;
+}
+.cupontext2part{
+    margin-left: 25px;
+}
+.cupontext1{
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 16px;
+}
+.cupontext2{
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.cupontext4{
+    padding-top: 50px;
+    font-size: 40px;
+    font-weight: 800;
+}
+.cuponpar2all{
+    background-color: rgb(218, 107, 190);
+    display: flex;
+    width: 500px;
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.cuponpartall{
+    display: flex;
+    margin-bottom: 40px;
+    
+}
+.cuponpar2all .cuponimg{
+    margin-left: 30px;
+}
+.thrdpartbtn{
+    padding: 14px 20px ;
+    border: 1px solid rgb(113, 245, 113);
+    border-radius: 10px;
+    color: rgb(113, 245, 113) ;
+    margin-left: 600px;
+    font-weight: 800;
+    font-size: medium;
+   
+
+}
+
+
+/*four part*/
+#fourpart{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top:3px solid green;
+    margin-top: 80px;
+    background-color: rgb(240, 237, 234);
+}
+.fourparttext{
+   text-align: center;
+}
+.fourtexttitle{
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+.ticketdetailsalls{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 20px;
+    
+}
+.ticketname{
+    display: flex;
+    height: fit-content;
+    
+}
+.setnumber{
+    display: flex;
+    background-color: rgb(215, 241, 176);
+    color: rgb(6, 248, 6);
+    align-items: center;
+    height: fit-content;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 160px;
+    
+}
+.ticketdetailsall{
+    margin: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.busimg{
+    height:40px;
+}
+.businfo{
+    margin-left: 10px;
+}
+.busname{
+    font-size: 30px;
+    font-weight: 700;
+}
+.setimg{
+    height: 40px;
+}
+.location{
+    margin-top: 30px;
+    height: 200px;
+    background-color: rgb(247, 244, 240);
+    border-radius: 20px;
+    padding: 10px;
+}
+.location .mar{
+    padding-left: 450px;
+    
+}
+table{
+    margin-top: 10px;
+}
+.details{
+    display: flex;
+    gap: 10px;
+}
+.detail{
+    margin-left: 15px;
+    margin-top: 20px;
+    background-color: rgba(94, 90, 92, 0.582);
+    width: fit-content;
+    padding:10px 10px;
+    border-radius: 20px;
+    color: black;
+}
+hr{
+    color: black;
+
+  
+}
+.infoimg{
+    margin-left: 20px;
+    margin-right: 80px;
+    height: 300px;
+
+}
+.taka{
+    width: 200px;
+    padding-top: 50px;
+    padding-right: 20px ;
+    
+   
+}
+.takas{
+    font-size: 20px;
+
+}
+
+/*setplan*/
+.setplanall{
+    display: flex;
+    margin: 10px 100px;
+    background-color: rgb(240, 245, 240);
+}
+.setplan1{
+    width: 100%;
+    border-right: 1px dotted black;
+    padding: 10px;
+}
+.setplan2{
+    width: 100%;
+    padding: 10px;
+}
+.setgrays{
+    display: flex;
+}
+.avaiselected{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.setplanis{
+    color: rgb(7, 252, 7);
+    font-weight: 600;
+}
+.set1{
+    margin-top: 20px;
+    margin-left: 480px;
+    width: 80px;
+    height: 40px;
+    background-color: rgb(192, 188, 188);
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+   
+}
+.steeringimg{
+    width: 30px;
+    margin-left: 25px;
+    padding-top: 5px;
+}
+.setall{
+    margin-top: 10px;
+    margin-left: 40px;
+    display: flex;
+    gap: 60px;
+  
+}
+.setall1{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.setall2{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.set{
+    width: 80px;
+    height: 40px;
+    background-color: rgb(189, 186, 186);
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+}
+.setm{
+    width: 50px;
+    height: 40px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-radius: 6px;
+}
+.setcount{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    font-weight: 600;
+}
+.setcountt{
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    font-weight: 600;
+}
+.applycupon{
+    width: 390px;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 10px;
+
+}
+.applybtn{
+    background-color: rgb(17, 247, 9);
+    color: white;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.form{
+    margin-top: 20px;
+}
+.formtext{
+    font-size: 20px;
+    font-weight: 700;
+}
+.frominput{
+    width: 460px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+.nextbtn{
+    width: 460px ;
+    background-color: rgb(17, 247, 9);
+    color: white;
+    padding: 10px;
+   border-radius: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.setcountss{
+    color: gray;
+}
